@@ -5,7 +5,16 @@ export default {
     "./src/**/*.{js,ts,jsx,tsx}",
   ],
   theme: {
-    extend: {},
+    extend: {
+      fontFamily: {
+        'inter': ["Inter", "sans-serif"],
+        'rale': ["Raleway", "sans-serif"],
+        'robo': ["Roboto", "sans-serif"],
+      },
+      colors: {
+        'primary': '#EEF4F9',
+      },
+    },
   },
   plugins: [],
 }
