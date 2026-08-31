@@ -7,12 +7,13 @@ export default {
   theme: {
     extend: {
       fontFamily: {
-        'inter': ["Inter", "sans-serif"],
-        'rale': ["Raleway", "sans-serif"],
-        'robo': ["Roboto", "sans-serif"],
+        inter: ["Inter", "sans-serif"],
+        raleway: ["Raleway", "sans-serif"],
+        roboto: ["Roboto", "sans-serif"],
       },
       colors: {
-        'primary': '#EEF4F9',
+        primary: '#EEF4F9',
+        accent: '#2C83BB',
       },
     },
   },
