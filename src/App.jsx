@@ -1,5 +1,6 @@
 import React from 'react'
 import ListItem from './components/ListItem'
+import Flex from './components/Flex'
 import Button from './components/Button'
 import Container from './components/Container'
 import Image from './components/Image'
@@ -20,6 +21,6 @@ const App = () => {
   
     </>
   )
-}
+} 
 
 export default App
