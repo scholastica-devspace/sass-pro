@@ -14,6 +14,7 @@ export default {
       colors: {
         primary: '#EEF4F9',
         accent: '#2C83BB',
+        background: '#0d554c',
       },
     },
   },
