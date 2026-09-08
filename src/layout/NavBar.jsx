@@ -23,7 +23,7 @@ const NavBar = () => {
               <ListItem text="Blog" />
               <ListItem text="Contact" />
             </ul>
-            <Button text="Let's Talk" />
+            <Button className='bg-transparent border-white hover:text-background hover:border-transparent' text="Let's Talk" />
           </Flex>
 
         </Flex>
