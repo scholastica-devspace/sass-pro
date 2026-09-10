@@ -15,6 +15,7 @@ export default {
         primary: '#EEF4F9',
         accent: '#2C83BB',
         background: '#0d554c',
+        heading: '#112F42',
       },
     },
   },
